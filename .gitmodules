@@ -1,0 +1,4 @@
+[submodule "docker/app/AIP"]
+	path = docker/app/AIP
+	url = https://github.com/ProjectNeura/AIP.git
+	branch = feature/swin-unet
